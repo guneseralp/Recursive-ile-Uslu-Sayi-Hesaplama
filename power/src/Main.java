@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class Main {
 
     static int power ( int u, int t){
-        int total = 1;
         if(u == 0){
             return 1;
         }
